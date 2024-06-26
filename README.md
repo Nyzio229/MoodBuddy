@@ -3,6 +3,7 @@
 # MoodBuddy
 
 Aplikacja polegająca na poprawie samopoczucia i jego śledzenia.
+Tworzona w 4-osobowym zespole (Kamil Kozioł, Patryk wróblewski, Norbert Jaskulski, Jakub Łotysz)
 
 ## Aplikacja oferuje:
 - Zapisywanie samopoczucia oraz odczuwanych emoji na dany dzień
